@@ -34,6 +34,11 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "MultiWindow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1056b6c5d31c49809416547f44545453"
 		}
 	],
 	"TargetPlatforms": [
